@@ -1,0 +1,11 @@
+hello:Hi, how can I help?
+hi:Hi, how can I help?
+how are you?:Great! Ready to help!
+how are you:Great! Ready to help!
+sup?:Great! Ready to help!
+sup:Great! Ready to help!
+goodbye:goodbye! Have a great day!
+what is your favourite colour?: red
+what is your favourite colour: red
+favourite colour: red
+favourite colour?: red

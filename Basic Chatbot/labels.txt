@@ -1,0 +1,4 @@
+0 Cat
+1 Dog
+2 Squirrel
+3 Monkey
